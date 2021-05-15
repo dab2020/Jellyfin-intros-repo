@@ -68,7 +68,7 @@
         "version": "1.3.0.0",
         "changelog": "- add options for custom vimeo IDs and local files",
         "targetAbi": "10.6.0.0",
-        "sourceUrl": "https://dkanada.xyz/plugins/jellyfin-plugin-intros/jellyfin-plugin-intros-v1.3.0.zip",
+        "sourceUrl": "https://raw.githubusercontent.com/dab2020/Jellyfin-intros-repo/main/jellyfin-plugin-intros-v1.3.0.zip",
         "checksum": "ecb2bedb7e93ea354ad84f4c0a67a174",
         "timestamp": "2021-01-10T00:00:00Z"
       }
